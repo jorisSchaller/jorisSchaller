@@ -4,8 +4,8 @@ Welcome to my corner of the web,
 If you'd like to read me, check out my [blog, jsch](https://jsch.ch)! If you'd like to reach me, check out my email (in python): `f"{github_username[:5]}.{github_username[5:]}{chr(64)}protonmail{chr(46)}com"`
 
 
--  I’m currently building a foundation multi-modal model at IBM research Zürich (Master Thesis). Feel free to reach out to discuss interesting topics !
--  I love to read blogs, personnal experience and provocating thaugh, feel free to send me a blog post you liked or ask me my current readings !
+-  I’m currently a researcher at IBM research Zürich. Feel free to reach out to discuss interesting topics !
+-  I love to read blogs, personnal experience and provocating thaugh, feel free to send me a blog post you liked or ask me about my current readings !
 - Fun fact: I'm a beekeper 🐝
 
 
